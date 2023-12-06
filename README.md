@@ -22,6 +22,6 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dwain-hanlon/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dwain-hanlon/)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations or discussions. 😊
