@@ -27,7 +27,7 @@
 
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations or discussions. 😊
 
-![Snake animation](https://github.com/eagrundy/dwainH/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dwainH/blob/output/github-contribution-grid-snake.svg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dwainH)  
 
