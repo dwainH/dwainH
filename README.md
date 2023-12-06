@@ -1,4 +1,4 @@
-<a href="https://github.com/dwainH/BEPb/blob/main/assets/Bottom_up.svg?short_path=c660c3f"></a>
+![](assets/Bottom_up.svg)
 
 ## 👨‍💻 About Me
 
